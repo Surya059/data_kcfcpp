@@ -4,4 +4,4 @@
 
   KCFcpp/images.txt
 
-2. Replace /path_to_kcfcpp_root_folder/ in images.txt with the paths to your folder
+2. Replace /path_to_kcfcpp_root_folder/ in images.txt with absolute path to yout KCFcpp repository
